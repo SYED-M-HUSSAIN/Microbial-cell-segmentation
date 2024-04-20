@@ -59,7 +59,7 @@ git clone https://github.com/SYED-M-HUSSAIN/Microbial-cell-segmentation.git
 
 ## Website Link
 ```
-[https://microbial-cell-detection-yolov8.streamlit.app/](https://bio200.streamlit.app/)
+https://bio200.streamlit.app/
 
 ```
 ## References:
